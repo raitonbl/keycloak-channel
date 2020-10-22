@@ -1,4 +1,4 @@
-# keycloak captcha api
+# keycloak Channel api
 Intended to extend [Keycloak](https://www.keycloak.org/) features through a standard api which abstract the message channel vendor.
 This project enables:
 * Message Channel api abstraction - Making it possible to design message channel dependent features without vendor locking. This api needs to be deployed on [Keycloak](https://www.keycloak.org/) whenever a Channel vendor is to be deployed.  
